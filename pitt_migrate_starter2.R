@@ -1,6 +1,6 @@
 
 
-source("C:\\Drive E\\Fall 2017\\migration_optimize\\Pitt_migrate_norm_3_1.R")
+source("Pitt_migrate_norm_3_1.R")
 
 
 #a<-read.table("C:\\Drive E\\imbalance\\Data\\aus.csv",sep=",",header=F)
