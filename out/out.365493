@@ -1,0 +1,33 @@
+/home/efarhan/.lsbatch/1514365932.365493: line 8: ./err/err.%J: No such file or directory
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2e4-1>
+Subject: Job 365493: <./err/err.%J Rscript liner_plot.R> Exited
+
+Job <./err/err.%J Rscript liner_plot.R> was submitted from host <login01.hpc.ncsu.edu> by user <efarhan> in cluster <henry2>.
+Job was executed on host(s) <4*n2e4-1>, in queue <debug>, as user <efarhan> in cluster <henry2>.
+</home/efarhan> was used as the home directory.
+</home/efarhan/RFiles/HPC_1/HPC_1> was used as the working directory.
+Started at Wed Dec 27 04:12:34 2017
+Results reported at Wed Dec 27 04:12:34 2017
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./err/err.%J Rscript liner_plot.R
+------------------------------------------------------------
+
+Exited with exit code 127.
+
+Resource usage summary:
+
+    CPU time   :      0.02 sec.
+    Max Memory :         2 MB
+    Max Swap   :        35 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) is above this job summary.
+
