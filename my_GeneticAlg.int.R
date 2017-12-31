@@ -255,7 +255,7 @@ my_GeneticAlg.int <- function(genomeLen, codonMin, codonMax,
     if(stagnantCount>sLen )
       stagnantCount<-1
     
-    stagnantList[stagnantCount]<-costs[1]
+    stagnantList[stagnantCount]<-evalVals[1]
     
     isStagnant<-FALSE
     sCount<-2
