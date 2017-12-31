@@ -7,6 +7,8 @@ library(TunePareto)
 library(Rcpp)
 library(RWeka)
 library(plyr)
+library(lattice)
+library(robustbase)
 
 ### Cross validation init
 
