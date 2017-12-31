@@ -1,3 +1,5 @@
+library(lattice)
+library(robustbase)
 
 
 source("Pitt_migrate_norm_3_1.R")
